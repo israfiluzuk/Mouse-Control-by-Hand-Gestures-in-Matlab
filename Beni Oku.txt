@@ -1,0 +1,21 @@
+Proje Ýsmi : El Hareketi ile Fare Ýmleci Kontrolü
+
+Proje Ekibi : Ýsrafil ÜZÜK
+
+
+Kullanýmý : 
+1. Fare_Kontrol.m isimli matlab uzantýlý dosyayý açýnýz.
+2. Proje açýldýktan sonra RUN butonu ile projeyi çalýþtýrýnýz.
+3. Karþýnýza iki farklý kameradan görüntü alan penceye açýlacaktýr. Parmaðýnýza Kýrmýzý bir bant yapýþtýrarak farenin hareket kontrolünü saðlayýn.
+4. Farenin SAÐ tuþunu kullanmak için KIRMIZI bantlý olan parmaðýnýz kamera karþýsýnda sabit iken bir 
+diðer parmaðýnýza da MAVÝ bant yapýþtýrýn. 
+Bu durumda var olanlar þu þekildedir;
+
+Kýrmýzý bantlý bir parmak ve Mavi bantlý diðer parmak
+
+5. Eðer farenin sol tuþuna týklamak istiyorsanýz 
+KIRMIZI bantlý parmak sabit olmak þartý ile MAVÝ bantlý parmaðýnýzý KIRMIZI'nýn solunda hýzlý bir þekilde 
+göstermeniz yeterli olacaktýr.
+
+6. Eðer farenin sað tuþuna týklamak istiyorsanýz 5. adýmdaki MAVÝ bantlý parmaðýnýzý KIRMIZI'nýn saðýnda
+hýzlý bir þekilde göstermeniz yeterli olacaktýr.
